@@ -3,7 +3,7 @@
 # Create a vector `names` that contains your name and the names of 2 people 
 # next to you. Print the vector.
 
-names <- c("Heidi", "Nancy")
+names <- c("Kelly", "Heidi", "Nancy")
 print(names)
 
 # Use the colon operator : to create a vector `n` of numbers from 10:49
